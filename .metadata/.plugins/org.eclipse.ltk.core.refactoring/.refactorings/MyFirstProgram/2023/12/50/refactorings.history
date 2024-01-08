@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.demo.MFPDemo&apos; to &apos;MfpDemo&apos;&#x0D;&#x0A;- Original project: &apos;MyFirstProgram&apos;&#x0D;&#x0A;- Original element: &apos;com.example.demo.MFPDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.demo.MfpDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MFPDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo{MFPDemo.java[MFPDemo" matchStrategy="1" name="MfpDemo" qualified="false" references="true" similarDeclarations="false" stamp="1702272954584" textual="false" version="1.0"/>
+</session>

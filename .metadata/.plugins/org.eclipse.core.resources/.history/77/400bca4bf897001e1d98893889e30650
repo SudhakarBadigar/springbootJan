@@ -1,0 +1,11 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MfpDemo {
+	public void getmessage() {
+		System.out.println("Spring Boot in sts4 my first program");
+	}
+
+}
