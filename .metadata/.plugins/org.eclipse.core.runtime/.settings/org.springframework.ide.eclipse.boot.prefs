@@ -1,11 +1,11 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=SpringBootAnnotations2
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.2.0
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=javaBasedConfiguration
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.2.1
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=in.nit.examples
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=SpringBootAnnotations2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=javaBasedConfiguration
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=in.nit.examples
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
